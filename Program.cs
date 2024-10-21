@@ -17,6 +17,7 @@ public class Program {
         CheckEvenOrOdd(7);
         CheckVowelOrConsonant('e');
         CheckVowelOrConsonant('t');
+        DisplayDayOfWeek(4);
     }
 
     public static void CheckForPositiveNegativeZero(int number) {
